@@ -35,7 +35,7 @@ This repo keeps me accountable and lets others peek into the process — not jus
 <p>You can use this to embed a contribution-style calendar if you want to track consistency visually:</p>
 
 <pre>
-[![GitHub Streak](https://streak-stats.demolab.com?user=your_username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FR34KY-CODER&theme=radical)](https://git.io/streak-stats)
 </pre>
 
 <hr>
