@@ -5,7 +5,7 @@ This repo is my open notebook — a log of what I’m learning, building, breaki
 
 <p>Whether you're here to follow along, learn something new, or just see how someone else is structuring their deep learning path — you're welcome. 🙌</p>
 
-<p><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Deep Learning"></p>
+<p><img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="Deep Learning"></p>
 
 <hr>
 
