@@ -1,0 +1,1 @@
+This Folder Conatians similar notebooks implementation practice from the previous day but thsi time it's done through the Classification approach following the different formulationa d activation functions.
