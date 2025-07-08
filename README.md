@@ -30,20 +30,6 @@ This repo keeps me accountable and lets others peek into the process — not jus
 
 <hr>
 
-<h2>📈 Graph of Shame (or Glory)</h2>
-
-<p>You can use this to embed a contribution-style calendar if you want to track consistency visually:</p>
-
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=FR34KY-CODER&theme=radical" alt="GitHub Streak">
-  </a>
-</p>
-
-
-<hr>
-
 <h2>🧠 Inspirations</h2>
 
 <ul>
